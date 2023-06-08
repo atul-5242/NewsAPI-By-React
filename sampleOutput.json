@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": "news24",
+        "name": "News24"
+      },
+      "author": "Compiled by Lloyd Burnard",
+      "title": "Proteas confirm new contracts after Dane van Niekerk, Lizelle Lee, Trisha Chetty retirements",
+      "description": "Cricket South Africa on Monday confirmed 15 nationally contracted Proteas women players ahead of the 2023/24 season.",
+      "url": "https://www.news24.com/sport/cricket/proteas/proteas-confirm-new-contracts-after-dane-van-niekerk-lizelle-lee-trisha-chetty-retirements-20230320",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/1967/b6782ee594184f969be22f67a719795e.jpg",
+      "publishedAt": "2023-03-20T12:39:42+00:00",
+      "content": "<ul><li>The Proteas women have named their 15 contracted players for the upcoming season. </li><li>There are three new additions following the retirements of Dane van Niekerk, Lizelle Lee and Trish C… [+2827 chars]"
+    },
+    {
+      "source": {
+        "id": "news24",
+        "name": "News24"
+      },
+      "author": "Heinz Schenk",
+      "title": "Cricket SA slammed for 'embarrassing' domestic season: 'There's no care factor'",
+      "description": "Western Province have slammed CSA for a frustrating domestic campaign that they believe showed the local governing body neglecting the provincial game.",
+      "url": "https://www.news24.com/sport/cricket/domestic/cricket-sa-slammed-for-embarrassing-domestic-season-theres-no-care-factor-20230320",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/3086/991b4890d6a64c86abc1c659f55422b9.jpg",
+      "publishedAt": "2023-03-20T10:39:11+00:00",
+      "content": "<ul><li>Western Province have slammed CSA for a frustrating domestic campaign that they believe showed the local governing body neglecting the provincial game.</li><li>Head coach Salieg Nackerdien be… [+6268 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
